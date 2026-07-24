@@ -1,4 +1,4 @@
-<h1 align="center">📊 Superstore Sales Dashboard</h1>
+<h1 align="center">📊  Sales Dashboard</h1>
 
 <p align="center">
 An interactive Excel dashboard built to analyze <b>Sales</b>, <b>Profit</b>, <b>Customer Behavior</b>, and <b>Business Performance</b> using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
