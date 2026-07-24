@@ -112,7 +112,7 @@ The objective of this project is to transform raw sales data into an interactive
 ### Cumulative %
 
 ```excel
-=C2/SUM($C$2:$C$18)
+=Running_total/SUM($C$2:$C$18)
 ```
 
 ### Profit Margin
